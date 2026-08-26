@@ -9,7 +9,7 @@ Unlike just having a generic AI review - which gets you feedback that sounds rig
 The results will probably surprise you. Often you'll get feedback that you've been trying to sell to people who would be weird to buy (even if they have relevant pain points and like your product). Or that the way you are pitching your product is convincing them not to buy.
 
 For more on Rob Snyder's PULL framework: buy his book [*The Power of PULL*](https://www.amazon.com/Power-Pull-Customer-Successful-Founders/dp/1541705955),
-read his newsletter [The Physics of Startups](https://thephysicsofstartups.substack.com/p/sales-problems-vs-product-market?utm_source=publication-search),
+read his newsletter [The Physics of Startups](https://thephysicsofstartups.substack.com/p/sales-problems-vs-product-market?utm_source=publication-search), get [AI Rob](https://airobsnyder.com),
 or, if you want the real Rob to help you quickly figure out the best way to position and sell your product so you can grow fast, [work with Rob](https://robsnyder.org/work-with-me).
 
 ## What this skill does
